@@ -1,6 +1,6 @@
 # NLP-220 Data Science and Machine Learning Fundamentals
 
-The course is taught by **Dr. Jalal Mahmud** , Adjunct Professor at NLP MS Program.
+The course is taught by **Dr. Jalal Mahmud** , Adjunct Professor (NLP MS Program) at __The University of California - Santa Cruz__.
 
 The teaching assistant for this course is **Nilay Patel**, III yr Ph.D student.
 
