@@ -1,4 +1,4 @@
-## Assignment 2 ##
+## Assignment - 2 ##
 Assignment on Feature Engineering on an ecommerce dataset using Support Vector Machines (SVMs), Logistic Regression and Decision Tree.
 
 The 220_A2_report is my report on the assignment.
